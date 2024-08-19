@@ -143,7 +143,9 @@ Bias Mitigation: Helps in minimizing biases and maintaining ethical standards.
 Personalization: Allows for tailored and customized interactions.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:Who is the richest person?
+
 Improved Prompt: "Who is the richest person in the world as of August 2024?"
 "Who holds the title of the richest person based on Forbes' latest billionaires list?"
 The improved prompt is more effective because:
